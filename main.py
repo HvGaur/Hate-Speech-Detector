@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 import re
 import nltk
+nltk.download('stopwords')
 stemmer = nltk.SnowballStemmer("english")
 from nltk.corpus import stopwords
 import string
