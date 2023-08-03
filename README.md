@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 To use this repository, you can clone it using git:
 ```bash
-git clone https://github.com/your-username/hate-speech-detection.git
+git clone https://github.com/HvGaur/hate-speech-detection.git
 cd hate-speech-detection
 ```
 
