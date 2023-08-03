@@ -1,5 +1,5 @@
 # Hate Speech Detector
-[test it here](https://hatespeechdetector.streamlit.app/)
+### [TEST IT HERE](https://hatespeechdetector.streamlit.app/)
 ## Overview
 This repository contains code and resources for building a hate speech detection system using machine learning techniques.
 
